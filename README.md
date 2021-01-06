@@ -1,1 +1,2 @@
-# C48-AmUse_yoUr_Brain
+# p5.play-boilerplate
+Boiler plate for p5.play
